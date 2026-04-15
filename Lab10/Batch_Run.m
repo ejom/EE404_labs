@@ -7,4 +7,4 @@ run('modeling_control_para')
 tic
 sim('Final_simulink')
 Simulation_Time = toc
-%run('Plot_result')
+run('Plot_result')
